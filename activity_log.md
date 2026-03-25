@@ -5,3 +5,4 @@
 - [2026-03-25T11:01:17Z] chore: remove deprecated API calls
 - [2026-03-25T13:11:15Z] fix: handle null pointer exception
 - [2026-03-25T12:50:28Z] docs: improve inline documentation
+- [2026-03-25T13:51:17Z] chore: remove deprecated API calls
